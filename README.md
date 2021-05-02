@@ -28,6 +28,9 @@ Follow the steps below
 # Install the dependencies
 $ yarn
 
+# Start server
+$ yarn server
+
 # Start the project
 $ yarn dev
 ```
